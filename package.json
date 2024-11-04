@@ -1,0 +1,16 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "A program used to generate a README file based on a series of prompts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Hieu Tran",
+  "license": "ISC",
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "inquirer": "8.2.4"
+  }
+}
