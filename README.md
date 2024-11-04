@@ -42,5 +42,5 @@
   If you have any additional questions, you can open an issue or contact me directly at hieu12_12@yahoo.com .
   You can view more of my work on my GitHub: [hieu12-12](https://github.com/hieu12-12).
 
-# README-Generator-
+
 # README-Generator-
